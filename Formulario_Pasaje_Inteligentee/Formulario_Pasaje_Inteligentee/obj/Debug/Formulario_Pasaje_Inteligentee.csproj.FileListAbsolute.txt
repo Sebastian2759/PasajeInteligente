@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Formulario_Pasaje_Inteligentee\Formulario_Pasaje_Inteligentee\bin\Debug\Formulario_Pasaje_Inteligentee.exe.config
+C:\Users\user\source\repos\Formulario_Pasaje_Inteligentee\Formulario_Pasaje_Inteligentee\bin\Debug\Formulario_Pasaje_Inteligentee.exe
+C:\Users\user\source\repos\Formulario_Pasaje_Inteligentee\Formulario_Pasaje_Inteligentee\bin\Debug\Formulario_Pasaje_Inteligentee.pdb
+C:\Users\user\source\repos\Formulario_Pasaje_Inteligentee\Formulario_Pasaje_Inteligentee\obj\Debug\Formulario_Pasaje_Inteligentee.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Formulario_Pasaje_Inteligentee\Formulario_Pasaje_Inteligentee\obj\Debug\Formulario_Pasaje_Inteligentee.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Formulario_Pasaje_Inteligentee\Formulario_Pasaje_Inteligentee\obj\Debug\Formulario_Pasaje_Inteligentee.Properties.Resources.resources
+C:\Users\user\source\repos\Formulario_Pasaje_Inteligentee\Formulario_Pasaje_Inteligentee\obj\Debug\Formulario_Pasaje_Inteligentee.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Formulario_Pasaje_Inteligentee\Formulario_Pasaje_Inteligentee\obj\Debug\Formulario_Pasaje_Inteligentee.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Formulario_Pasaje_Inteligentee\Formulario_Pasaje_Inteligentee\obj\Debug\Formulario_Pasaje_Inteligentee.exe
+C:\Users\user\source\repos\Formulario_Pasaje_Inteligentee\Formulario_Pasaje_Inteligentee\obj\Debug\Formulario_Pasaje_Inteligentee.pdb
+C:\Users\user\source\repos\Formulario_Pasaje_Inteligentee\Formulario_Pasaje_Inteligentee\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\Formulario_Pasaje_Inteligentee\Formulario_Pasaje_Inteligentee\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\Formulario_Pasaje_Inteligentee\Formulario_Pasaje_Inteligentee\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\Formulario_Pasaje_Inteligentee\Formulario_Pasaje_Inteligentee\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\Formulario_Pasaje_Inteligentee\Formulario_Pasaje_Inteligentee\obj\Debug\Formulario_Pasaje_Inteligentee.Form1.resources
+C:\Users\user\source\repos\Formulario_Pasaje_Inteligentee\Formulario_Pasaje_Inteligentee\obj\Debug\Formulario_Pasaje_Inteligentee.csproj.CopyComplete
+C:\Users\user\source\repos\Formulario_Pasaje_Inteligentee\Formulario_Pasaje_Inteligentee\obj\Debug\Formulario_Pasaje_Inteligentee.FormCompanyEditor.resources
